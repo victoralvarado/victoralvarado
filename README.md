@@ -5,7 +5,7 @@ Hi 👋 My name is Victor Alvarado
 Web developer and Designer
 --------------------------
 
-*   🌍  I'm based in El Salvador
+*   🌍  I'm from El Salvador
 *   ✉️  You can contact me at [alvaradoguzman900@gmail.com](mailto:alvaradoguzman900@gmail.com)
 ### Skills
 <p align="left">
