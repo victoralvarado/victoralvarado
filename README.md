@@ -2,7 +2,7 @@
 Hi 👋 My name is Victor Alvarado
 ================================
 
-Software developer and Designer
+Software developer
 --------------------------
 
 *   🌍  I'm from El Salvador
